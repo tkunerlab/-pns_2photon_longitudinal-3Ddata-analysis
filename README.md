@@ -19,11 +19,15 @@ V. Step 5: Automated neuronal segmentation, tracing and statistical neural netwo
 
 VI. Step 6: Quantitative analysis of structural plasticity in SNS-mGFP and Thy1-YFP mice.
 
+How to use:
+
 1. Users can first download the file by click the menu "code", download the zip file.
 2. Since these codes are written in matlab, you can run the code step by step in matlab.
 3. Users can use your own two-photon image stacks for testing or can use our datasets for testing.
 
 
 When you have any questions, please write to us.
-hongwei.zheng@uni-heidelberg.de
+
+hongwei.zheng AT uni-heidelberg.de
+
 http://www.ana.uni-heidelberg.de/index.php?id=179
