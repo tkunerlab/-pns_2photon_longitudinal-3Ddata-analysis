@@ -2,7 +2,7 @@
 Peripheral neural system in two-photon longitudinal 3D data analysis
 
 
-The code are written in matlab, one can test single images or large-scale 4D datasets in a single PC or in High performance computers (HPC).
+The codes are written in matlab, one can test single images or large-scale 4D datasets in a single PC or in High performance computers (HPC).
 
 
 Steps of data processing and analysis
