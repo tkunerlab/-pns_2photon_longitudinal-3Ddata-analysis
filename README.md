@@ -9,9 +9,9 @@ Steps of 2-photon data processing and quantitative analysis
 
 I. Step 1: Automated stitching of four 16-bit raw image stacks into a superstack
 
-II. Step 2: Identification and removal of epidermal autofluorescence via weakly-supervised learning and label propagation 
+II. Step 2: Segmentation and removal of epidermal autofluorescence via weakly-supervised learning and label propagation 
 
-III. Step 3: Method of Adaptive enhancement and conversion of 16bit images to 8bit images
+III. Step 3: 16-bit to 8-bit conversion of superstacks by nonlinear adaptive depth-dependent adjustment on global and local scales
 
 IV. Step 4: Automated rigid and non-rigid 4D registration of stacks acquired at different time points
 
